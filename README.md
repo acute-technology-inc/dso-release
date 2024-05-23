@@ -1,7 +1,7 @@
-# Digital Storage Oscilloscope (Linux Release)
+# Digital Storage Oscilloscope Software (Linux Release)
 
-Public release of Digital Storage Oscilloscope for Acute's Digital Storage 
-Oscilloscope products.
+Public release of Digital Storage Oscilloscope software for Acute's Digital 
+Storage Oscilloscope products.
 
 ## Supported Models
 
