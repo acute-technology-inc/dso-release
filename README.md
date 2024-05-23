@@ -22,6 +22,9 @@ All our software are provided in an **AppImage** format. It requires making the
 file into executable before using it. 
 
 Check the box that says “Allow executing file as program” as shown in the image.
+
+![Demo Image](https://github.com/acute-technology-inc/dso-release/master/res/image.png)
+
 Or, you can type
 
 ```
