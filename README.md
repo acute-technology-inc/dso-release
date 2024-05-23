@@ -31,7 +31,8 @@ Or, you can type
 Simply double-click the file to launch the software after the file is changed into an executable file.
 
 Next, the software requires udev rules to allow non-root access to Acute’s 
-devices. Thus, you may need to install the udev rule file.
+devices. Thus, you may need to install the udev rule file that you can obtain from
+`LinuxSoftwareResources.zip`.
 
 1.	Download the udev file from our website.
 2.	Type the following command in the terminal
