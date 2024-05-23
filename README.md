@@ -23,7 +23,7 @@ file into executable before using it.
 
 Check the box that says “Allow executing file as program” as shown in the image.
 
-![Demo Image](https://github.com/acute-technology-inc/dso-release/master/res/image.png)
+![Demo Image](https://github.com/acute-technology-inc/dso-release/tree/main/res/image.png)
 
 Or, you can type
 
