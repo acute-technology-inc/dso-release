@@ -5,8 +5,6 @@ Oscilloscope products.
 
 ## Supported Models
 
-Products that support gRPC remote control
-
 | Types                        | Product                                       | 
 | ---------------------------- | --------------------------------------------- |
 | Digital Storage Oscilloscope | Acute TravelScope 3000 series                 |
