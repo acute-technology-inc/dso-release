@@ -30,7 +30,7 @@ Check the box that says “Allow executing file as program” as shown in the im
 Or, you can type
 
 ```
-    chmod 777 DSO-x86_64.AppImage
+    chmod 777 Digital_Storage_Oscilloscope-x86_64.AppImage
 ```
 
 Simply double-click the file to launch the software after the file is changed into an executable file.
