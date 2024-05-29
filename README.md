@@ -3,6 +3,8 @@
 Public release of Digital Storage Oscilloscope software for Acute's Digital 
 Storage Oscilloscope products.
 
+**_NOTE:_** The software on Linux platform are still marked as beta versions. Please create an issue if you encounter any errors when running the program.
+
 ## Supported Models
 
 | Types                        | Product                                       | 
