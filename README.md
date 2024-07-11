@@ -26,8 +26,10 @@ Digital Storage Oscilloscope application is provided in an **AppImage** format, 
 
 One can update it manually by downloading the latest version of the application.
 
-Or, you can use [**AppImageUpdate**](https://github.com/AppImageCommunity/AppImageUpdate) GUI tool to update the application.
-See also [Making AppImages updateable](https://docs.appimage.org/packaging-guide/optional/updates.html#via-appimageupdate-built-into-the-appimage).
+Or, you can use **AppImageUpdate** GUI tool to update the application.
+Execute **AppImageUpdate-x86_64.AppImage** and select Digital_Storage_Oscilloscope-x86_64.AppImage for updating.
+
+See also [AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate) for more information.
 
 ## Instructions
 
@@ -35,7 +37,7 @@ AppImages requires making the file into executable before using it.
 
 Check the box that says **Allow executing file as program** as shown in the image.
 
-![Demo Image](https://github.com/acute-technology-inc/dso-release/blob/main/res/image.png?raw=true)
+![Demo Image](res/image.png)
 
 Or, you can type
 
@@ -61,5 +63,5 @@ devices. Thus, you may need to install the udev rule file that you can obtain fr
 
 ## Troubleshooting
 
-See [Troubleshooting guide](https://github.com/acute-technology-inc/dso-release/blob/main/TROUBLESHOOTING.md) if you encounter any issues regarding the application.
+See [Troubleshooting guide](TROUBLESHOOTING.md) if you encounter any issues regarding the application.
 
